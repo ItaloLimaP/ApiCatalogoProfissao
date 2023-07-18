@@ -1,5 +1,5 @@
 # ApiCatalogoProfissao
-# Uma Web page para Gravar, Editar e Excluír sua lista de filmes.
+# Uma Web API em C#, Json e Middleware para Gravar, Editar e Excluír a lista de profissões da sua empresa.
 
 ## Contato
 
